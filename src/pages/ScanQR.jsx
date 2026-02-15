@@ -324,7 +324,7 @@ export default function ScanQR() {
     <div className="min-h-screen bg-gray-100">
       <Navbar />
 
-      <div className="max-w-2xl mx-auto p-6 text-center mt-[90px]">
+      <div className="max-w-2xl mx-auto p-6 text-center mt-[70px]">
         <h1 className="text-3xl font-bold mb-6">Scan QR</h1>
 
         {status !== "success" && (
