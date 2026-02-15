@@ -60,7 +60,7 @@ export default function MemberDashboard() {
 
 
   return (
-    <div className="min-h-screen bg-gray-100 pt-[90px]">
+    <div className="min-h-screen bg-gray-100 pt-[70px]">
       <Navbar />
 
       <div className="max-w-6xl mx-auto p-6 space-y-8">

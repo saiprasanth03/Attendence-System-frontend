@@ -67,8 +67,8 @@ export default function PolygonMap({
 
   return (
     <MapContainer
-      center={[23.0775, 76.8513]}
-      zoom={16}
+      center={[16.5660, 81.5225]}
+      zoom={17}
       style={{ height: "400px", width: "100%" }}
     >
       <SearchControl />

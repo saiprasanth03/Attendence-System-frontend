@@ -60,7 +60,9 @@ export default function PRDashboard() {
   }, [activeEvent]);
 
   return (
-    <div className="min-h-screen bg-gray-100 pt-24 px-8">
+    // <div className="min-h-screen bg-gray-100 pt-24 px-8">
+    <div className="min-h-screen bg-gray-100 pt-20 px-4 sm:px-6 lg:px-8">
+
       <Navbar />
 
       <h1 className="text-3xl font-bold mb-8">
